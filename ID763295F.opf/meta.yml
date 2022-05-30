@@ -1,0 +1,370 @@
+id: ID763295F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:54:13.444372'
+last_modified: '2022-05-30T21:54:13.444378'
+parser: null
+source_metadata:
+  title: Jigme Lingpa Series
+  language: fr
+  description: A series of texts by and about the great Dzogchen master Rigdzin Jigme
+    Lingpa (rig 'dzin 'jigs med gling pa, 1730–1798), who revealed the Longchen Nyingtik
+    (klong chen snying thig) collection.
+  volume:
+    fE4E9:
+      title: An Aspiration for the Final Age
+      base_file: fE4E9.txt
+      order: 1
+      parent: Aspiration Prayers
+    f5B97:
+      title: Aspiration to Be Reborn in the Realm of Sukhāvatī
+      base_file: f5B97.txt
+      order: 2
+      parent: Aspiration Prayers
+    fBC28:
+      title: 'Entering the City of Omniscience: An Aspiration Prayer for Actualizing
+        Words of Truth'
+      base_file: fBC28.txt
+      order: 3
+      parent: Aspiration Prayers
+    fB725:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      base_file: fB725.txt
+      order: 4
+      parent: Aspiration Prayers
+    f8C7B:
+      title: 'The Single Oceanic Wisdom: An Aspiration to Recognise the Bardos'
+      base_file: f8C7B.txt
+      order: 5
+      parent: Aspiration Prayers
+    f26B9:
+      title: 'Calling the Guru from Afar: A Prayer to Jigme Lingpa'
+      base_file: f26B9.txt
+      order: 6
+      parent: Calling the Guru from Afar
+    f739A:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      base_file: f739A.txt
+      order: 7
+      parent: Catalogues
+    f56AA:
+      title: 'Elucidating the Body Maṇḍala: Clarifications on the Recitation Manual
+        of the Female Practice of the Queen of Great Bliss'
+      base_file: f56AA.txt
+      order: 8
+      parent: Commentaries
+    f584D:
+      title: Main Recitation Manual for the Female Practice of the Queen of Great
+        Bliss
+      base_file: f584D.txt
+      order: 9
+      parent: Commentaries
+    f2F49:
+      title: 'The Casket of Siddhis: A Recitation Manual for “Vidyādhara Assembly”
+        (Rigdzin Düpa)'
+      base_file: f2F49.txt
+      order: 10
+      parent: Commentaries
+    f66BF:
+      title: 'The Loud Drum of Spring: A Commentary on the Difficult Points of the
+        Ritual of the Great Compassionate One, Natural Liberation of Suffering'
+      base_file: f66BF.txt
+      order: 11
+      parent: Commentaries
+    f5E58:
+      title: 'The Words of the Awesome Ones: A General Overview of the Three Yogas
+        from the Heart-Essence of the Vast Expanse'
+      base_file: f5E58.txt
+      order: 12
+      parent: Commentaries
+    fB65B:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      base_file: fB65B.txt
+      order: 13
+      parent: Confession
+    f63FD:
+      title: A Practice of Fulfilment and Confession to an Ocean of Oath-bound Protectors
+      base_file: f63FD.txt
+      order: 14
+      parent: Dharma Protectors
+    f07A1:
+      title: Vajra Verses on the Natural State
+      base_file: f07A1.txt
+      order: 15
+      parent: Dzogchen
+    f68A8:
+      title: A Ritual of Blessing and Empowerment for the Female Practice, from the
+        Heart Essence of the Vast Expanse
+      base_file: f68A8.txt
+      order: 16
+      parent: Empowerment Rites
+    f311B:
+      title: 'Clarifying the Self-Initiation: An Empowerment of the Great Compassionate
+        One, the Natural Liberation of Suffering'
+      base_file: f311B.txt
+      order: 17
+      parent: Empowerment Rites
+    fA13F:
+      title: 'Illuminating the Meaning of Empowerment: A Self-Initiation for the Female
+        Practice of the Ḍākinī'
+      base_file: fA13F.txt
+      order: 18
+      parent: Empowerment Rites
+    f0061:
+      title: The Root Empowerment of the Vase Conferring Majesty from the Heart-Essence
+        of the Vast Expanse
+      base_file: f0061.txt
+      order: 19
+      parent: Empowerment Rites
+    f6A14:
+      title: A Prayer Invoking the Benefits of the Festival of the Tenth Day
+      base_file: f6A14.txt
+      order: 20
+      parent: Guru Rinpoche Prayers
+    f9C7A:
+      title: A Prayer of Devotion, to Make the Tears Fall
+      base_file: f9C7A.txt
+      order: 21
+      parent: Guru Rinpoche Prayers
+    f8738:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      base_file: f8738.txt
+      order: 22
+      parent: Guru Rinpoche Prayers
+    f0807:
+      title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+      base_file: f0807.txt
+      order: 23
+      parent: Guru Rinpoche Prayers
+    f9FF3:
+      title: Training in the Pure Realms of the Three Kāyas
+      base_file: f9FF3.txt
+      order: 24
+      parent: Guru Rinpoche Prayers
+    f5C2D:
+      title: Guru Yoga of Rigdzin Jigme Lingpa
+      base_file: f5C2D.txt
+      order: 25
+      parent: Guru Yoga
+    f2D69:
+      title: 'The Wish-Fulfilling Jewel: The Outer Practice of Guru Yoga from the
+        Heart-Essence of the Vast Expanse'
+      base_file: f2D69.txt
+      order: 26
+      parent: Guru Yoga
+    f4ECE:
+      title: The History of the Female Practice of the Queen of Great Bliss
+      base_file: f4ECE.txt
+      order: 27
+      parent: History
+    f8DC8:
+      title: Palchen Düpa Lineage Prayer
+      base_file: f8DC8.txt
+      order: 28
+      parent: Lineage Prayers
+    fDBFA:
+      title: 'The Continuous Shower of Blessings: A Prayer to the Lineage of the Great
+        Perfection’s Heart-Essence of the Vast Expanse (Dzogpachenpo Longchen Nyingtik)'
+      base_file: fDBFA.txt
+      order: 29
+      parent: Lineage Prayers
+    fD83D:
+      title: 'Skull Fragments: The Root Tantra of the Vidyādharas'
+      base_file: fD83D.txt
+      order: 30
+      parent: Longchen Nyingtik
+    f2500:
+      title: 'The Excellent Path to Omniscience: The Dzogchen Preliminary Practice
+        of Longchen Nyingtik'
+      base_file: f2500.txt
+      order: 31
+      parent: Ngöndro
+    f7555:
+      title: 'The Lute of the Gandharvas: A Garland of Offerings of the Sixteen Vajra
+        Goddesses'
+      base_file: f7555.txt
+      order: 32
+      parent: Offering
+    fB5C0:
+      title: 'The Kalaviṅka’s Call: A Guide to Glorious Samye Chimphu'
+      base_file: fB5C0.txt
+      order: 33
+      parent: Pilgrimage
+    fF175:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      base_file: fF175.txt
+      order: 34
+      parent: Practices
+    fB9D6:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      base_file: fB9D6.txt
+      order: 35
+      parent: Practices
+    fDB4B:
+      title: Descent of Blessings of the Eight Vidyādharas
+      base_file: fDB4B.txt
+      order: 36
+      parent: Practices
+    f48E3:
+      title: 'Excellent Intention: A Simple Fasting (Nyungne) Ritual'
+      base_file: f48E3.txt
+      order: 37
+      parent: Practices
+    f43B1:
+      title: 'Rain of Accomplishments: A Concise Fulfilment Practice for the Female
+        Awareness-Holder (Yumka)'
+      base_file: f43B1.txt
+      order: 38
+      parent: Practices
+    f1601:
+      title: 'The Blissful Path of Action Tantra: A Ritual for Taking the One-Day
+        Vows of a Lay Practitioner'
+      base_file: f1601.txt
+      order: 39
+      parent: Practices
+    fFE09:
+      title: The Eight-Branch Offering from the Gyüluk Phurba
+      base_file: fFE09.txt
+      order: 40
+      parent: Practices
+    f2FE3:
+      title: 'The Treasury of the Four Activities: A Fire Offering to Yumka'
+      base_file: f2FE3.txt
+      order: 41
+      parent: Practices
+    fF4C4:
+      title: 'The Vase of Immortal Life: The Long-Life Practice of the Vidyādharas,
+        from the Heart Essence of the Vast Expanse'
+      base_file: fF4C4.txt
+      order: 42
+      parent: Practices
+    fF72A:
+      title: In Praise of Jigme Lingpa’s Pre-Eminence
+      base_file: fF72A.txt
+      order: 43
+      parent: Praise
+    fB6BF:
+      title: In Praise of the Goddess Mārīcī (Özerchenma)
+      base_file: fB6BF.txt
+      order: 44
+      parent: Praise
+    f033B:
+      title: Praise of the Twelve Acts of the Buddha
+      base_file: f033B.txt
+      order: 45
+      parent: Praise
+    f0BBA:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      base_file: f0BBA.txt
+      order: 46
+      parent: Prayers
+    f20D2:
+      title: A Prayer to Jowo Rinpoche Combined with Aspirations and a Means to Receive
+        the Four Empowerments
+      base_file: f20D2.txt
+      order: 47
+      parent: Prayers
+    fBD35:
+      title: 'Devotion that Pierces the Heart: A Prayer to the Omniscient Jigme Lingpa'
+      base_file: fBD35.txt
+      order: 48
+      parent: Prayers
+    f2674:
+      title: Prayer to Rigdzin Jigme Lingpa Invoking His Previous Incarnations
+      base_file: f2674.txt
+      order: 49
+      parent: Prayers
+    f9D54:
+      title: Prayer to the Garland of Rebirths of the Dzogchenpas of Eastern Tibet
+      base_file: f9D54.txt
+      order: 50
+      parent: Prayers
+    f8995:
+      title: 'The Vajra Verses: A Prayer of the Fierce Inner Heat'
+      base_file: f8995.txt
+      order: 51
+      parent: Prayers
+    fBA34:
+      title: 'The Vision: A Prayer to Ārya Avalokiteśvara'
+      base_file: fBA34.txt
+      order: 52
+      parent: Prayers
+    fEFFF:
+      title: 'A Glimpse of the Crucial Points: The Vidyādhara''s Manual of Concealed
+        Instructions'
+      base_file: fEFFF.txt
+      order: 53
+      parent: Sādhanas
+    f11AE:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      base_file: f11AE.txt
+      order: 54
+      parent: Sādhanas
+    f847D:
+      title: A Sādhana of Hayagrīva’s Assembly, from the Heart-Essence of the Vast
+        Expanse
+      base_file: f847D.txt
+      order: 55
+      parent: Sādhanas
+    f9BF5:
+      title: 'Adornment of Lord Nāgārjuna’s Wisdom Mind: The Fourfold Maṇḍala Offering
+        to Tārā'
+      base_file: f9BF5.txt
+      order: 56
+      parent: Sādhanas
+    fC4A6:
+      title: Awesome Ones’ Assembly (Palchen Düpa), the Heart Practice of the Awareness-Holders
+      base_file: fC4A6.txt
+      order: 57
+      parent: Sādhanas
+    fAC27:
+      title: Sādhana of the Great Master Vairotsana
+      base_file: fAC27.txt
+      order: 58
+      parent: Sādhanas
+    f2B6C:
+      title: The Secret Practice of the Great Compassionate One, Natural Liberation
+        of Suffering
+      base_file: f2B6C.txt
+      order: 59
+      parent: Sādhanas
+    fCC2F:
+      title: The Vidyādhara Assembly (Rigdzin Düpa), the Inner Practice from the Heart
+        Essence of the Vast Expanse
+      base_file: fCC2F.txt
+      order: 60
+      parent: Sādhanas
+    fB483:
+      title: 'Transference: Enlightenment Without Meditation (root text)'
+      base_file: fB483.txt
+      order: 61
+      parent: Transference (Phowa)
+    f7E24:
+      title: Brief Prayer of the Feast Gathering
+      base_file: f7E24.txt
+      order: 62
+      parent: Tsok
+    f4227:
+      title: Confession and Fulfilment Insert for Accumulating the Practice of Turning
+        Back the Summons of the Ḍākinīs
+      base_file: f4227.txt
+      order: 63
+      parent: Tsok
+    f4887:
+      title: Song of the Feast (Tsok Lu)
+      base_file: f4887.txt
+      order: 64
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
